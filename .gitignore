@@ -1,0 +1,5 @@
+# dist ignore
+/dist/*
+
+# node modules ignore
+/node_modules/*
